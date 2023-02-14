@@ -1,6 +1,9 @@
 body{
     background-image: url("./images/IMG_20230213_225107.jpg");
 }
+.nad{
+	color: aliceblue;
+}
 h3 {
 	text-align: center;
 }
